@@ -2,11 +2,13 @@
 using namespace std;
 
 int main(){
-//Qui vanno definite le variabili
+float a,b,c;
 
 cin >> a >> b >> c;
-
-//Qui va scritto il codice per eseguire i calcoli richiesti
-
+cout<<0.5*a*b<<endl;
+cout<<a*a<<endl;
+cout<<a*b<<endl;
+cout<<0.5(a+b)*c<<endl;
+return o;
 
 }
